@@ -1,7 +1,7 @@
 {
   "name": "test01",
   "version": "0.0.2",
-  "description": "> TODO: description",
+  "description": ">  description",
   "author": "yhyancy <2397856503@qq.com>",
   "homepage": "",
   "license": "ISC",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "node ./__tests__/test01.test.js"
   },
-  "gitHead": "11a82db911ac4ca9dc88b92c1793dddb50162ac1"
+  "gitHead": "4243ba9386af0e8e4f2230ed10db452c61cc99b4"
 }
