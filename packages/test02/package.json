@@ -1,7 +1,7 @@
 {
   "name": "test02",
   "version": "0.0.3",
-  "description": "> description",
+  "description": "> description111",
   "author": "yhyancy <2397856503@qq.com>",
   "homepage": "https://github.com/yhyancy/TestLerna#readme",
   "license": "ISC",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/yhyancy/TestLerna/issues"
   },
-  "gitHead": "4243ba9386af0e8e4f2230ed10db452c61cc99b4"
+  "gitHead": "7849d2827878f031177a446d104279ca98ee2a76"
 }
