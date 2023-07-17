@@ -1,0 +1,19 @@
+{
+  "name": "test01",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "yhyancy <2397856503@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/test01.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/test01.test.js"
+  }
+}
